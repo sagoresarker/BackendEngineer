@@ -1,2 +1,59 @@
 # BackendEngineer
 A list of topics i have to explore
+
+# Python Backend Engineer
+
+Hi :) I'm looking to join the role of Python Backend Engineer at a certain company. I feel the need to learn a few more things first so I've created this repository to document my progress.
+
+To start, I've created a checklist using the job ad:
+
+- [ ] 1 Mobile app
+- [ ] 2 Core infrastructure
+- [ ] 3 Know Python at an intermediate level
+- [ ] 4 Functional and object-oriented programming
+    - [ ] 4.1 Inheritance
+    - [ ] 4.2 Abstraction
+    - [ ] 4.3 Encapsulation
+- [ ] 5 Python web frameworks
+    - [ ] 5.1 Flask ⬅️💻☕
+    - [ ] 5.2 Django
+- [ ] 6 Interacting with Postgres from Python
+- [ ] 7 ORMs
+    - [ ] 7.1 Django ORM
+    - [ ] 7.2 SQLAlchemy
+- [ ] 8 Basic principles of concurrent programming
+    - [ ] 8.1 Multiprocessing
+    - [ ] 8.2 Multithreading
+- [ ] 9 Unit testing
+- [ ] 10 DevOps
+    - [ ] 10.1 Docker
+    - [ ] 10.2 Kubernetes
+    - [ ] 10.3 Packaging projects
+    - [ ] 10.4 Deployment automation
+- [ ] 11 Scaling the organisation
+- [ ] 12 Connecting business logic to code
+- [ ] 13 Not afraid to make mistakes
+- [ ] 14 Use data and logic to backup decisions and improve understanding
+
+This list might change over time but the goal will stay the same - competitive positioning of myself.
+
+I've created the .md file 'todo'. I'm used to having a file like this to use as a scratch space for my thoughts.
+
+I'm not new to programming but there's always more to learn. Looking at the list above I think I'll start from looking into one of the Python web frameworks. After a bit of research, this site https://testdriven.io/blog/django-vs-flask/ told me:
+
+> In almost all cases, it's recommended to learn Flask before Django. The only time you should deviate from that is when you just need to get an app up quick to satisfy some external stakeholder.
+
+I'm in no rush. Let's start with Flask.
+
+⬅️💻☕ Next to a checklist item will mean I'm currently working on it.
+
+Captain's log 2019-11-29 00:33 Created .py file 'hello'.
+
+I've setup Flask to run on my home network. Now following this Quickstart to learn more about it: https://flask.palletsprojects.com/en/1.1.x/quickstart/
+
+Pretty cool so far. Hitting the hay soon, though.
+
+I think I'll continue this DevLog format for this repository. It's pretty fun :)
+
+Continuing. Finished Quickstart, moving on to the official Flask tutorial:
+https://flask.palletsprojects.com/en/1.1.x/tutorial/layout/
